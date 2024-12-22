@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">Tech Innovator & Educator | Full Stack Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasseth&theme=darkhub&label=Profile%20views&color=0e75b6&style=flat" alt="anasseth" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasseth" alt="anasseth" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasseth&theme=darkhub" alt="anasseth" /></a> </p>
 
 - 🔭 I’m currently working on **Exploring the intersection of artificial intelligence and seamless user interactions.**
 
