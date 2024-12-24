@@ -7,12 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Healthcare projects utilizing AI**
 
-- 👨‍💻 All of my projects are available at [https://anasseth-official.web.app/](https://anasseth-official.web.app/)
-
-- 📫 How to reach me **m.anasseth00@gmail.com**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasseth&theme=darkhub&column=3&margin-w=15&margin-h=15" alt="anasseth" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-anas-seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-anas-seth" height="30" width="40" /></a>
